@@ -1,4 +1,4 @@
-# Hospital-Management-Syestem_JAVA
+# HMS_JAVA
 # Hospital Management System
 
 A Java Swing-based desktop application designed to streamline hospital operations by managing patient records, appointments, billing, and other essential tasks.
